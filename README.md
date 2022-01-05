@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hande2003
+- 👋 Hi, I’m HSS
 - 👀 I’m interested in Automation and AI related stuffs
 - 🌱 I’m currently learning Selenium Automation using python
 
