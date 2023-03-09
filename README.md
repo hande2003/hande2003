@@ -5,4 +5,3 @@ I like <b>backend development</b> and <b>documentation</b>
 
 I do <i>digital painting</i> and <i>mural art</i> during my free time
 
-I am very bad at introducing myself :sweat_smile:
